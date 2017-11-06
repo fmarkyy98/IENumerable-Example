@@ -98,7 +98,7 @@ namespace IENumerable_Test
             }
         }
     }
-
+    // LÓFASZ
     class Program
     {
         static void Main(string[] args)
